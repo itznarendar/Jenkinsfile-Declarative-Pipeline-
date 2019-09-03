@@ -1,7 +1,7 @@
 public class HelloWorld {
 
     static int print(){
-        return 9999;
+        return 98999;
     }
     public static void main(String[] args) {
         // Prints "Hello, World" to the terminal window.
